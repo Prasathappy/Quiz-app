@@ -1,1 +1,1 @@
-# Quiz-app-Bharat-Intern
+# Quiz-app
